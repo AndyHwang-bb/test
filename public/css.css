@@ -1,0 +1,36 @@
+.slide_all{
+    border: 3px solid black;
+    width: 90%;
+    min-width: 700px;
+    padding: 0;
+    margin: 0;
+    margin-left: 100px;
+
+}
+
+#the_left{
+    width: 75%;
+    min-width: 700px;
+    position: relative;
+}
+
+#the_right{
+    width: 25%;
+    min-width: 300px;
+    height: 300px;
+   
+    
+}
+
+#the_grid{
+    display: flex;
+}
+
+#show{
+    border: 3px solid rgb(202, 202, 202);
+    width: 90%;
+    min-width: 700px;
+    padding: 0;
+    margin: 0;
+    margin-left: 100px;
+}
